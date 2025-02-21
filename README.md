@@ -13,12 +13,5 @@ I am interested in **Machine Learning/Deep Learning, Natural Language Processing
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  ![SciPy](https://img.shields.io/badge/SciPy-8C3A2D?style=for-the-badge&logo=scipy&logoColor=white)  ![SymPy](https://img.shields.io/badge/SymPy-78C7B9?style=for-the-badge&logo=sympy&logoColor=white)  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)   ![HuggingFace](https://img.shields.io/badge/HuggingFace-FF4F00?style=for-the-badge&logo=huggingface&logoColor=white)  ![LangChain](https://img.shields.io/badge/LangChain-25A1F0?style=for-the-badge&logo=langchain&logoColor=white)  ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)  ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)  ![Jupyter](https://img.shields.io/badge/Jupyter-FF2B5B?style=for-the-badge&logo=jupyter&logoColor=white)  ![GoogleColab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white)  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  ![GoogleCloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)   
  
 
-## 📊 GitHub Stats  
-![Bhanu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bhanu-kr&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bhanu-kr&layout=compact&theme=radical)  
-
-## 🏆 GitHub Achievements  
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=bhanu-kr&theme=radical&margin-w=15&margin-h=15)  
-
 ---
 ⭐ **Feel free to connect with me on LinkedIn!**  
